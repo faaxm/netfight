@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="1000"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="/.auto/storage/axmann/priv/devel/netfight/svg2lvl/shapes"
+   sodipodi:docname="health.svg"
+   version="1.0">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="39.217851"
+     inkscape:cx="-0.15215554"
+     inkscape:cy="998.60407"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1022"
+     inkscape:window-height="562"
+     inkscape:window-x="0"
+     inkscape:window-y="186"
+     height="1000px"
+     width="700px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:none;fill-opacity:1;stroke:black;stroke-width:0.14440022;stroke-opacity:1"
+       d="M -4.9243035,-4.9771833 L 4.9774435,-4.9771833 L 4.9774435,4.9244833 L -4.9243035,4.9244833 L -4.9243035,-4.9771833 L -4.9243035,-4.9771833"
+       id="rect1872" />
+    <path
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M -1.2197931,-3.4634325 L -1.2197931,-1.2030532 L -3.5429606,-1.2030532 L -3.5429606,1.2457914 L -1.2197931,1.2457914 L -1.2197931,3.5688585 L 1.1661628,3.5688585 L 1.1661628,1.2457914 L 3.4893304,1.2457914 L 3.4893304,-1.2030532 L 1.1661628,-1.2030532 L 1.1661628,-3.4634325 L -1.2197931,-3.4634325 L -1.2197931,-3.4634325"
+       id="rect1873" />
+  </g>
+</svg>

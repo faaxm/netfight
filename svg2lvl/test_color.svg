@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docname="test_color.svg"
+   sodipodi:docbase="/.auto/storage/axmann/priv/devel/netfight/svg2lvl">
+  <sodipodi:namedview
+     inkscape:window-height="748"
+     inkscape:window-width="1022"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.35919193"
+     inkscape:cx="372.04724"
+     inkscape:cy="321.30462"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#d8cc00;fill-opacity:1;stroke:red;stroke-opacity:1"
+     d="M 147.55342,192.09787 L 629.19008,192.09787 L 629.19008,281.18673 L 147.55342,281.18673 L 147.55342,192.09787 z "
+     id="rect1870" />
+  <path
+     style="fill:#7136fd;fill-opacity:1;stroke:#e20000;stroke-opacity:1"
+     d="M 153.12148,272.83466 L 242.21033,272.83466 L 242.21033,545.66928 L 153.12148,545.66928 L 153.12148,272.83466 z "
+     id="rect1872" />
+  <path
+     style="opacity:1;fill:#fd0000;fill-opacity:1;stroke:blue;stroke-opacity:1"
+     d="M 175.39369,481.63666 L 598.56578,481.63666 L 598.56578,545.66927 L 175.39369,545.66927 L 175.39369,481.63666 z "
+     id="rect1874" />
+</svg>

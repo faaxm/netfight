@@ -1,0 +1,9 @@
+INCLUDE(CheckIncludeFiles)
+
+CHECK_INCLUDE_FILES(GL/gl.h HAVE_LINUX_OGL_HEADERS)
+CHECK_INCLUDE_FILES(OpenGL/gl.h HAVE_APPLE_OGL_HEADERS)
+
+CONFIGURE_FILE(
+    src/platform/config.h.in
+    ${CMAKE_CURRENT_BINARY_DIR}/platform/config.h
+)

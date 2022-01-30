@@ -1,0 +1,2 @@
+#cmakedefine HAVE_APPLE_OGL_HEADERS
+#cmakedefine HAVE_LINUX_OGL_HEADERS
